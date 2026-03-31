@@ -1,0 +1,9 @@
+{
+	"name": "nycdf23",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a145083-4c21-4f46-baa4-4870146a1a23",
+		"tenantId": "bf705989-7131-4d8c-a392-8c28f279fb68"
+	}
+}
