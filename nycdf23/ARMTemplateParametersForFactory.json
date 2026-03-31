@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "nycdf23"
+		},
+		"nyc_DataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"nyc_DataLakeStorage_properties_typeProperties_url": {
+			"value": "https://nycproject45.dfs.core.windows.net/"
+		},
+		"nyc_web_properties_typeProperties_url": {
+			"value": "https://d37ci6vzurychx.cloudfront.net"
+		}
+	}
+}
